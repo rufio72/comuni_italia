@@ -14,6 +14,6 @@ Questo è il progetto open-source che ho utilizzato: https://github.com/MatteoHe
 
 Happy download!
 
-Link da cui scaricare il file excel direttamente dal sito istat.
+Link per scaricare il file excel direttamente dal sito istat.
 https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.xls
 
