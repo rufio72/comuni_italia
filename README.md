@@ -9,7 +9,7 @@ Nella tabella comuni, tra gli altri, sono presenti 2 campi nominati id_provincia
 
 Invece nella cartella old è presente la vecchia esportazione.
 Quest'ultima l'avevo generata da un progetto opensource che era aggiornato al 2018 e l'ho modificato in modo da facilitare le query.
-Questo è il progetto open-source che ho utilizzato: https://github.com/MatteoHenryChinaski/Comuni-Italiani-2018-Sql-Json-excel
+Questo è il progetto open-source che a suo tempo ho vampirizzato: https://github.com/MatteoHenryChinaski/Comuni-Italiani-2018-Sql-Json-excel
 
 
 Happy download!
