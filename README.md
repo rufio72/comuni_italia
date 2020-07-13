@@ -8,9 +8,11 @@ Questo è il progetto open-source che ho preso come riferimento : https://github
 
 Nelle tabelle non trovavo le foreign key e non mi piace fare join partendo da campi varchar, quindi l'ho modificato. 
 
-Questa è una pagina da cui è possibile scaricare l'elenco dei comuni italiani:
+Questa è una pagina da cui è possibile scaricare l'elenco dei comuni italiani in excel:
 https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.xls
 
-Come vedete è una pagina dell'istat, quindi verrebbe da pensare che sia aggiornato.
+La pagina dell'istat, quindi verrebbe da pensare che sia aggiornato.
+Presto aggiorno il database a questo file, in modo che avrò un archivio aggiornato. 
+
 
 Happy download!
