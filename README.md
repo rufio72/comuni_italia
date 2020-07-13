@@ -2,7 +2,8 @@
 elenco comuni -> province -> regioni | Esportazione da mysql
 
 Il file comuni.sql è un database con dentro 3 tabelle, rispettivamente: comuni, province e regioni.
-I dati li ho presi dal sito dell'istat e sembrano aggiornati al 7 luglio 2020. (Non so se sia vero, ma è molto probabile.)
+I dati li ho presi dal sito dell'istat e sembrano aggiornati al 7 luglio 2020. (Non so se sia vero, ma è molto probabile)
+
 Link da cui scaricare il file excel.
 https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.xls
 
