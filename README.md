@@ -11,7 +11,7 @@ Nelle tabelle non trovavo le foreign key e non mi piace fare join partendo da ca
 Questa è una pagina da cui è possibile scaricare l'elenco dei comuni italiani in excel:
 https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.xls
 
-La pagina dell'istat, quindi verrebbe da pensare che sia aggiornato.
+La pagina è dell'istat, quindi verrebbe da pensare che sia aggiornato.
 Presto aggiorno il database a questo file, in modo che avrò un archivio aggiornato. 
 
 
