@@ -35,9 +35,57 @@ Questo è il progetto open-source che a suo tempo ho vampirizzato: https://githu
 
 
 ## Tabella comuni
-Questa tabella è frutto dell'importazione della tabella comuni scaricata dall'istat
+Questa tabella è frutto dell'importazione della tabella comuni scaricata dall'istat, la commento presto, comunque è abbastanza autoesplicativa.
 
+**id** 
 
+**id_regione Crescente 1**
+
+**id_provincia**
+
+**codice_regione**
+
+**codice_unita_territoriale**
+
+**codice_provincia**
+
+**progressivo_comune**
+
+**codice_comune_alfanumerico**
+
+**denominazione**
+
+**denominazione_ita**
+
+**codice_ripartizione_geografica**
+
+**ripartizione_geografica**
+
+**denominazione_regione**
+
+**denominazione_unita_territoriale**
+
+**tipologia_unita_territoriale**
+
+**flag_comune_capoluogo**
+
+**sigla_automobilistica**
+
+**codice_comune_numerico**
+
+**codice_comune_numerico_extra**
+
+**codice_comune_numerico_extra2**
+
+**codice_comune_numerico_extra3**
+
+**codice_catastale**
+
+**nuts_1**
+
+**nuts_2**
+
+**nuts_3**
 
 
 Happy download!
