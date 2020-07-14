@@ -39,7 +39,7 @@ Questa tabella è frutto dell'importazione della tabella comuni scaricata dall'i
 
 **id** 
 
-**id_regione Crescente 1**
+**id_regione**
 
 **id_provincia**
 
