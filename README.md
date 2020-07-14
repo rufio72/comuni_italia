@@ -13,21 +13,28 @@ Questo è il progetto open-source che a suo tempo ho vampirizzato: https://githu
 
 #Struttura database
 
-##Tabella regioni
+## Tabella regioni
  
 **id** -> autoincrement unica 
+
 **codice** -> codice numerico rappresentativo della regione
+
 **nome** -> nome della regione
 
-##Tabella Province
+## Tabella Province
 
 **id** -> autoincrement unica
+
 **id_regione** -> Campo id della tabella regioni, serve a ricavare le provincie di una certa regione
+
 **codice** -> codice alfanumerico assegnato alla provincia
+
 **nome**   -> nome della provincia
+
 **sigla**  -> sigla automobilistica della provincia
 
-##Tabella comuni
+
+## Tabella comuni
 Questa tabella è frutto dell'importazione della tabella comuni scaricata dall'istat
 
 
