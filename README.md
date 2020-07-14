@@ -1,4 +1,4 @@
-# Comuni italia sql (mysql)
+# Database Comuni italia sql (mysql)
 elenco comuni -> province -> regioni | Esportazione da mysql
 
 Il file comuni.sql è un database con dentro 3 tabelle, rispettivamente: comuni, province e regioni.
